@@ -1,2 +1,2 @@
 # cppday19
-Slides of the Italian C++ Conference 2019
+Slides of the C++ Day 2019
